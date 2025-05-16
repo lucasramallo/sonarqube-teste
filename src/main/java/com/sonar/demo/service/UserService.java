@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class UserService {
-
     private List<String> users = new ArrayList<>();
 
     public void addUser(String username) {
